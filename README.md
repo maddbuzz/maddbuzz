@@ -6,6 +6,8 @@
 
 📫 How to reach me: <maddbuzz@gmail.com>, <https://t.me/m4dd6u22>
 
+💬 Ask me about Bratsk
+
 <!--
 **maddbuzz/maddbuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning JS
 
-🔭 I’m currently working on <https://github.com/maddbuzz/runit>
+🔭 I’m currently working on <https://github.com/maddbuzz/rails-project-63>
 
 📫 How to reach me: <maddbuzz@gmail.com>, <https://t.me/m4dd6u22>
 

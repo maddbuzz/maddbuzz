@@ -1,8 +1,8 @@
+[![My Skills](https://skills.thijs.gg/icons?i=ruby,nodejs,react,cpp)](https://skills.thijs.gg)
+
 ### Hi there 👋
 
-🌱 I’m currently learning Ruby
-
-🌱 I’m currently learning JS
+🌱 I’m currently learning Ruby on Rails
 
 🔭 I’m currently working on <https://github.com/maddbuzz/rails-project-63>
 

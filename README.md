@@ -2,7 +2,7 @@
 
 ### Hi there!
 
-I'm looking for a job as a frontend developer  
+I'm looking for a job as a Frontend developer  
 (I have a [certificate](https://drive.google.com/file/d/1Ba_owkoangvVLHdxzGA-JQFopf9IPNT1/preview) of completion of the professional course "Frontend development" on the [Hexlet](https://hexlet.io/) educational platform)
 
 I’m currently learning Ruby on Rails and currently working on <https://github.com/maddbuzz/rails-project-63>

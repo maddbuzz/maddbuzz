@@ -1,4 +1,4 @@
-[![My Skills](https://skills.thijs.gg/icons?i=ruby,nodejs,react,cpp)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,nodejs,react,ruby,rails)](https://skills.thijs.gg)
 
 ### Hi there!
 

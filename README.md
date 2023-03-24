@@ -11,7 +11,7 @@ During the course, the following projects were developed:
 - [Rss reader](https://github.com/maddbuzz/frontend-project-11)
 - [Chat](https://github.com/maddbuzz/frontend-project-12)
 
-Now I’m learning **Ruby on Rails** and currently working on [Bulletin Board](https://github.com/maddbuzz/rails-project-65)
+Now I’m learning **Ruby on Rails** and currently working on [Github Quality](https://github.com/maddbuzz/rails-project-66)
 
 How to reach me:  
 [![email](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maddbuzz@gmail.com)  

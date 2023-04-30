@@ -12,7 +12,7 @@ During the courses, the following projects were developed:
   - [Difference calculator](https://github.com/maddbuzz/frontend-project-46)
   - [Rss reader](https://github.com/maddbuzz/frontend-project-11)
   - [Chat](https://github.com/maddbuzz/frontend-project-12)
-- Ruby on Rails:
+- Ruby:
   - [HexletCode](https://github.com/maddbuzz/rails-project-63)
   - [Collective blog](https://github.com/maddbuzz/rails-project-64)
   - [Bulletin board](https://github.com/maddbuzz/rails-project-65)

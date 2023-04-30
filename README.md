@@ -2,9 +2,9 @@
 
 ### Hi there!
 
-I'm looking for a job as a **Frontend developer**.
+I'm looking for a job as a **Frontend Developer** or **Ruby on Rails Developer**.
 
-I have a [certificate](https://drive.google.com/file/d/1Ba_owkoangvVLHdxzGA-JQFopf9IPNT1/preview) of completion of the professional course **Frontend development** and a [certificate](https://drive.google.com/file/d/1DqNn51ilbYpPupLZX3Q6Pco_x_eQC6lZ/preview) of completion of the intensive course **Ruby on Rails development** on the [Hexlet](https://hexlet.io/) educational platform.
+I have a [certificate](https://drive.google.com/file/d/1Ba_owkoangvVLHdxzGA-JQFopf9IPNT1/preview) of completion of the professional course **Frontend Development** and a [certificate](https://drive.google.com/file/d/1DqNn51ilbYpPupLZX3Q6Pco_x_eQC6lZ/preview) of completion of the intensive course **Ruby on Rails Development** on the [Hexlet](https://hexlet.io/) educational platform.
 
 During the courses, the following projects were developed:
 - [Brain games](https://github.com/maddbuzz/frontend-project-lvl1)

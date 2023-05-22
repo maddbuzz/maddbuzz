@@ -1,7 +1,19 @@
 <!--
-https://github.com/tandpfun/skill-icons
+https://github.com/Ileriayo/markdown-badges
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 -->
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,react,bootstrap,ruby,rails,cpp)](https://skills.thijs.gg)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ### Hi there!
 
@@ -22,8 +34,9 @@ During the courses, the following projects were developed:
   - [Github Quality project](https://github.com/maddbuzz/rails-project-66)
 
 How to reach me:  
-[![email](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maddbuzz@gmail.com)  
-[![telegram](https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m4dd6u22)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddbuzz@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m4dd6u22)
   
 <!--
 **maddbuzz/maddbuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 <!--
 https://github.com/tandpfun/skill-icons
 -->
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,react,ruby,rails,cpp)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,ts,react,bootstrap,ruby,rails,cpp)](https://skills.thijs.gg)
 
 ### Hi there!
 

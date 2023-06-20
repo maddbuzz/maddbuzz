@@ -27,12 +27,12 @@ During the courses, the following projects were developed:
   - [Brain games](https://github.com/maddbuzz/frontend-project-lvl1)
   - [Difference calculator](https://github.com/maddbuzz/frontend-project-46)
   - [Rss reader](https://github.com/maddbuzz/frontend-project-11)
-  - [Chat](https://github.com/maddbuzz/frontend-project-12)
+  - [Chat](https://github.com/maddbuzz/frontend-project-12) (graduation project of the profession **Frontend Developer**)
 - Ruby:
   - [HexletCode](https://github.com/maddbuzz/rails-project-63)
   - [Collective blog](https://github.com/maddbuzz/rails-project-64)
   - [Bulletin board](https://github.com/maddbuzz/rails-project-65)
-  - [Github Quality project](https://github.com/maddbuzz/rails-project-66)
+  - [Github Quality project](https://github.com/maddbuzz/rails-project-66) (graduation project of the profession **Ruby on Rails Developer**)
 
 How to reach me:  
 

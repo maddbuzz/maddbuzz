@@ -18,7 +18,9 @@ https://github.com/Ileriayo/markdown-badges
 
 ### Hi there!
 
+<!--
 I'm looking for a job as a **Frontend Developer** or **Ruby on Rails Developer**.
+-->
 
 I have a [certificate](https://drive.google.com/file/d/1Ba_owkoangvVLHdxzGA-JQFopf9IPNT1/preview) of completion of the professional course **Frontend Development** and a [certificate](https://drive.google.com/file/d/1DqNn51ilbYpPupLZX3Q6Pco_x_eQC6lZ/preview) of completion of the intensive course **Ruby on Rails Development** on the [Hexlet](https://hexlet.io/) educational platform.
 

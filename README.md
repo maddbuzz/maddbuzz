@@ -43,6 +43,8 @@ How to reach me:
 
 *«The desire to understand new technologies is more important than the experience of working with them»*
 
+💬 Ask me about Bratsk
+
 <!--
 **maddbuzz/maddbuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

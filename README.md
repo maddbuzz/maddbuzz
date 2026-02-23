@@ -38,6 +38,7 @@ During the courses, the following projects were developed:
   - [Bulletin board](https://github.com/maddbuzz/rails-project-65)
   - [Github Quality](https://github.com/maddbuzz/rails-project-66) *(graduation project of the profession «Ruby on Rails Developer»)*
 
+<!--
 How to reach me:  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maddbuzz@gmail.com)
@@ -45,6 +46,5 @@ How to reach me:
 
 *«The desire to understand new technologies is more important than the experience of working with them»*
 
-<!--
 **maddbuzz/maddbuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

@@ -20,6 +20,8 @@ https://github.com/Ileriayo/markdown-badges
 
 ### Hi there!
 
+💬 Ask me about Bratsk
+
 <!--
 I'm looking for a job as a **Frontend Developer** or **Ruby on Rails Developer**.
 -->
